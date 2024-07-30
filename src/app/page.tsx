@@ -2,9 +2,23 @@ import TextBanner from "@/components/TextBanner";
 import Container from "@/components/Container";
 import Marquee from "@/components/Marquee";
 import ProductCard from "@/components/ProductCard";
-import styles from '../assets/styles/product-card.module.css';
+import * as stylex from '@stylexjs/stylex';
 
 import data from "./data.json";
+
+const productCardContainer = stylex.create({
+  container: {
+    display: 'flex',
+    flexWrap: 'wrap',
+    gap: '20px',
+    justifyContent: 'flex-start',
+    padding: '2rem',
+    fontFamily: 'var(--x19jeovq)',
+    '@media screen and (max-width: 950px)': {
+      justifyContent: 'center',        
+    },
+  },
+});
 
 const renderProductCards = (products, filterCondition) => {
   return products
@@ -36,7 +50,7 @@ export default function Home() {
         />
 
         {/* insert cookware and bakeware here */}
-        <div className={styles.cards_container}>
+        <div {...stylex.props( productCardContainer.container )}>
           {renderProductCards(products, cookwareFilter)}
         </div>
 
@@ -60,7 +74,7 @@ export default function Home() {
         />
 
         {/* insert prepware accessories here */}
-        <div className={styles.cards_container}>
+        <div {...stylex.props( productCardContainer.container )}>
           {renderProductCards(products, prepwareFilter)}
         </div>
       </Container>
