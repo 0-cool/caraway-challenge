@@ -51,3 +51,10 @@ The page should display a list of products grouped with the instructions on the 
 #### Submit your work
  - Notify your recruiter and share a GitHub link with the completed work.
 
+#### Result
+Video: https://www.awesomescreenshot.com/video/30039360?key=cbe1fbf9aa4ca1ad3bde282c05374712
+
+Images:
+![image](https://github.com/user-attachments/assets/01d07e2f-2c3c-4a69-a955-150d4ea56720)
+![image](https://github.com/user-attachments/assets/2a27bc9b-a524-49c3-98e8-450083919b47)
+
