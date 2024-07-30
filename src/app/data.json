@@ -1,0 +1,2556 @@
+{
+  "products": [
+    {
+      "id": 7249741742162,
+      "title": "Utensil Set",
+      "handle": "utensil-set",
+      "body_html": "<span data-mce-fragment=\"1\">Stir in only the good stuff. Our Wooden Spoon, Server, Scraper, Spatula, and Tongs are crafted from responsibly grown birch wood free of toxic materials. Condense your drawer with these versatile essentials, designed to maximize the life of ceramic-coated pans. Plus, their sleek silhouettes perfectly complement Caraway Cookware, enhancing both function and style in your kitchen. That's the recipe for success.</span>",
+      "published_at": "2024-03-27T11:37:22-04:00",
+      "created_at": "2024-03-12T16:04:56-04:00",
+      "updated_at": "2024-07-29T20:31:21-04:00",
+      "vendor": "Caraway",
+      "product_type": "Prepware",
+      "tags": [
+        "Prepware"
+      ],
+      "variants": [
+        {
+          "id": 40775087095890,
+          "title": "FSC Wood",
+          "option1": "FSC Wood",
+          "option2": null,
+          "option3": null,
+          "sku": "KW-USET-101",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31093075869778,
+            "product_id": 7249741742162,
+            "position": 1,
+            "created_at": "2024-03-12T16:04:56-04:00",
+            "updated_at": "2024-03-12T16:04:59-04:00",
+            "alt": null,
+            "width": 1920,
+            "height": 1440,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/UtensilSet-EcommonWhite.png?v=1710273899",
+            "variant_ids": [
+              40775087095890
+            ]
+          },
+          "available": true,
+          "price": "125.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7249741742162,
+          "created_at": "2024-03-12T16:04:58-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 31093075869778,
+          "created_at": "2024-03-12T16:04:56-04:00",
+          "position": 1,
+          "updated_at": "2024-03-12T16:04:59-04:00",
+          "product_id": 7249741742162,
+          "variant_ids": [
+            40775087095890
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/UtensilSet-EcommonWhite.png?v=1710273899",
+          "width": 1920,
+          "height": 1440
+        }
+      ],
+      "options": [
+        {
+          "name": "Material",
+          "position": 1,
+          "values": [
+            "FSC Wood"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7250183422034,
+      "title": "Stock Pot",
+      "handle": "ceramic-stock-pot",
+      "body_html": "<span data-mce-fragment=\"1\">A lightweight workhorse. Made with our signature non-stick and non-toxic ceramic coating, our 12 qt Stock Pot adds significant capacity for bigger batches. It’s the first non-stick Stock Pot of its kind with a ceramic-coated interior, meaning you won’t have food simmering in forever chemicals for hours. Lid included.</span>",
+      "published_at": "2024-04-03T13:52:58-04:00",
+      "created_at": "2024-03-13T21:50:09-04:00",
+      "updated_at": "2024-07-29T20:31:21-04:00",
+      "vendor": "Caraway",
+      "product_type": "Cookware Singles",
+      "tags": [
+        "ceramic",
+        "cookware",
+        "cookware singles"
+      ],
+      "variants": [
+        {
+          "id": 40776689746002,
+          "title": "Cream",
+          "option1": "Cream",
+          "option2": null,
+          "option3": null,
+          "sku": "CW-STPT-101",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31159766974546,
+            "product_id": 7250183422034,
+            "position": 1,
+            "created_at": "2024-04-05T12:05:15-04:00",
+            "updated_at": "2024-04-05T12:05:16-04:00",
+            "alt": null,
+            "width": 1450,
+            "height": 1088,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StockPot-Cream-Ecomm-Main.jpg?v=1712333116",
+            "variant_ids": [
+              40776689746002
+            ]
+          },
+          "available": true,
+          "price": "185.00",
+          "grams": 5098,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7250183422034,
+          "created_at": "2024-03-13T21:50:11-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40776689778770,
+          "title": "Navy",
+          "option1": "Navy",
+          "option2": null,
+          "option3": null,
+          "sku": "CW-STPT-102",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31159767072850,
+            "product_id": 7250183422034,
+            "position": 2,
+            "created_at": "2024-04-05T12:05:22-04:00",
+            "updated_at": "2024-04-05T12:05:23-04:00",
+            "alt": null,
+            "width": 1450,
+            "height": 1088,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StockPot-Navy-Ecomm-Main.jpg?v=1712333123",
+            "variant_ids": [
+              40776689778770
+            ]
+          },
+          "available": true,
+          "price": "185.00",
+          "grams": 5098,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7250183422034,
+          "created_at": "2024-03-13T21:50:11-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40776689811538,
+          "title": "Gray",
+          "option1": "Gray",
+          "option2": null,
+          "option3": null,
+          "sku": "CW-STPT-103",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31159767203922,
+            "product_id": 7250183422034,
+            "position": 3,
+            "created_at": "2024-04-05T12:05:35-04:00",
+            "updated_at": "2024-04-05T12:05:37-04:00",
+            "alt": null,
+            "width": 1450,
+            "height": 1088,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StockPot-Gray-Ecomm-Main.jpg?v=1712333137",
+            "variant_ids": [
+              40776689811538
+            ]
+          },
+          "available": true,
+          "price": "185.00",
+          "grams": 5098,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 7250183422034,
+          "created_at": "2024-03-13T21:50:11-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40776689844306,
+          "title": "Sage",
+          "option1": "Sage",
+          "option2": null,
+          "option3": null,
+          "sku": "CW-STPT-104",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31159767302226,
+            "product_id": 7250183422034,
+            "position": 4,
+            "created_at": "2024-04-05T12:05:40-04:00",
+            "updated_at": "2024-04-05T12:05:42-04:00",
+            "alt": null,
+            "width": 1450,
+            "height": 1088,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StockPot-Sage-Ecomm-Main.jpg?v=1712333142",
+            "variant_ids": [
+              40776689844306
+            ]
+          },
+          "available": true,
+          "price": "185.00",
+          "grams": 5098,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 7250183422034,
+          "created_at": "2024-03-13T21:50:11-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40776689877074,
+          "title": "Perracotta",
+          "option1": "Perracotta",
+          "option2": null,
+          "option3": null,
+          "sku": "CW-STPT-105",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31159767400530,
+            "product_id": 7250183422034,
+            "position": 5,
+            "created_at": "2024-04-05T12:05:49-04:00",
+            "updated_at": "2024-04-05T12:05:50-04:00",
+            "alt": null,
+            "width": 1450,
+            "height": 1088,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StockPot-Perracotta-Ecomm-Main.jpg?v=1712333150",
+            "variant_ids": [
+              40776689877074
+            ]
+          },
+          "available": true,
+          "price": "185.00",
+          "grams": 5098,
+          "compare_at_price": null,
+          "position": 5,
+          "product_id": 7250183422034,
+          "created_at": "2024-03-13T21:50:11-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40776689909842,
+          "title": "Marigold",
+          "option1": "Marigold",
+          "option2": null,
+          "option3": null,
+          "sku": "CW-STPT-106",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31159767433298,
+            "product_id": 7250183422034,
+            "position": 6,
+            "created_at": "2024-04-05T12:05:54-04:00",
+            "updated_at": "2024-04-05T12:05:56-04:00",
+            "alt": null,
+            "width": 1450,
+            "height": 1088,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StockPot-Marigold-Ecomm-Main.jpg?v=1712333156",
+            "variant_ids": [
+              40776689909842
+            ]
+          },
+          "available": true,
+          "price": "185.00",
+          "grams": 5098,
+          "compare_at_price": null,
+          "position": 6,
+          "product_id": 7250183422034,
+          "created_at": "2024-03-13T21:50:11-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40776689942610,
+          "title": "Black",
+          "option1": "Black",
+          "option2": null,
+          "option3": null,
+          "sku": "CW-STPT-201",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31159767531602,
+            "product_id": 7250183422034,
+            "position": 7,
+            "created_at": "2024-04-05T12:06:00-04:00",
+            "updated_at": "2024-04-05T12:06:01-04:00",
+            "alt": null,
+            "width": 1450,
+            "height": 1088,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StockPot-Black-Ecomm-Main.jpg?v=1712333161",
+            "variant_ids": [
+              40776689942610
+            ]
+          },
+          "available": false,
+          "price": "245.00",
+          "grams": 5098,
+          "compare_at_price": "0.00",
+          "position": 7,
+          "product_id": 7250183422034,
+          "created_at": "2024-03-13T21:50:11-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40776689975378,
+          "title": "White",
+          "option1": "White",
+          "option2": null,
+          "option3": null,
+          "sku": "CW-STPT-202",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31159767662674,
+            "product_id": 7250183422034,
+            "position": 8,
+            "created_at": "2024-04-05T12:06:05-04:00",
+            "updated_at": "2024-04-05T12:06:07-04:00",
+            "alt": null,
+            "width": 1450,
+            "height": 1088,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StockPot-White-Ecomm-Main.jpg?v=1712333167",
+            "variant_ids": [
+              40776689975378
+            ]
+          },
+          "available": false,
+          "price": "245.00",
+          "grams": 5098,
+          "compare_at_price": null,
+          "position": 8,
+          "product_id": 7250183422034,
+          "created_at": "2024-03-13T21:50:11-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 31159766974546,
+          "created_at": "2024-04-05T12:05:15-04:00",
+          "position": 1,
+          "updated_at": "2024-04-05T12:05:16-04:00",
+          "product_id": 7250183422034,
+          "variant_ids": [
+            40776689746002
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StockPot-Cream-Ecomm-Main.jpg?v=1712333116",
+          "width": 1450,
+          "height": 1088
+        },
+        {
+          "id": 31159767072850,
+          "created_at": "2024-04-05T12:05:22-04:00",
+          "position": 2,
+          "updated_at": "2024-04-05T12:05:23-04:00",
+          "product_id": 7250183422034,
+          "variant_ids": [
+            40776689778770
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StockPot-Navy-Ecomm-Main.jpg?v=1712333123",
+          "width": 1450,
+          "height": 1088
+        },
+        {
+          "id": 31159767203922,
+          "created_at": "2024-04-05T12:05:35-04:00",
+          "position": 3,
+          "updated_at": "2024-04-05T12:05:37-04:00",
+          "product_id": 7250183422034,
+          "variant_ids": [
+            40776689811538
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StockPot-Gray-Ecomm-Main.jpg?v=1712333137",
+          "width": 1450,
+          "height": 1088
+        },
+        {
+          "id": 31159767302226,
+          "created_at": "2024-04-05T12:05:40-04:00",
+          "position": 4,
+          "updated_at": "2024-04-05T12:05:42-04:00",
+          "product_id": 7250183422034,
+          "variant_ids": [
+            40776689844306
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StockPot-Sage-Ecomm-Main.jpg?v=1712333142",
+          "width": 1450,
+          "height": 1088
+        },
+        {
+          "id": 31159767400530,
+          "created_at": "2024-04-05T12:05:49-04:00",
+          "position": 5,
+          "updated_at": "2024-04-05T12:05:50-04:00",
+          "product_id": 7250183422034,
+          "variant_ids": [
+            40776689877074
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StockPot-Perracotta-Ecomm-Main.jpg?v=1712333150",
+          "width": 1450,
+          "height": 1088
+        },
+        {
+          "id": 31159767433298,
+          "created_at": "2024-04-05T12:05:54-04:00",
+          "position": 6,
+          "updated_at": "2024-04-05T12:05:56-04:00",
+          "product_id": 7250183422034,
+          "variant_ids": [
+            40776689909842
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StockPot-Marigold-Ecomm-Main.jpg?v=1712333156",
+          "width": 1450,
+          "height": 1088
+        },
+        {
+          "id": 31159767531602,
+          "created_at": "2024-04-05T12:06:00-04:00",
+          "position": 7,
+          "updated_at": "2024-04-05T12:06:01-04:00",
+          "product_id": 7250183422034,
+          "variant_ids": [
+            40776689942610
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StockPot-Black-Ecomm-Main.jpg?v=1712333161",
+          "width": 1450,
+          "height": 1088
+        },
+        {
+          "id": 31159767662674,
+          "created_at": "2024-04-05T12:06:05-04:00",
+          "position": 8,
+          "updated_at": "2024-04-05T12:06:07-04:00",
+          "product_id": 7250183422034,
+          "variant_ids": [
+            40776689975378
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StockPot-White-Ecomm-Main.jpg?v=1712333167",
+          "width": 1450,
+          "height": 1088
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Cream",
+            "Navy",
+            "Gray",
+            "Sage",
+            "Perracotta",
+            "Marigold",
+            "Black",
+            "White"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4131300606034,
+      "title": "Cookware Set",
+      "body_html": "<p>Ditch the chemicals with Caraway’s ceramic-coated cookware. Our complete set has everything you'll need for healthy cooking in your kitchen, staying organized with both our pot and lid holders, and looking good while doing so.</p>",
+      "vendor": "Caraway",
+      "product_type": "Cookware Sets",
+      "created_at": "2019-09-11T22:44:11-04:00",
+      "handle": "cookware-sets",
+      "updated_at": "2024-07-29T21:42:19-04:00",
+      "published_at": "2022-05-12T09:53:11-04:00",
+      "template_suffix": "",
+      "published_scope": "web",
+      "tags": "ceramic, chord_origin: contentful, chord_origin_id: 48h3v2nA3gE7PStML3bJ7J, cookware, customTag, tbyb:30339901259858, tbyb:30339901292626, tbyb:30339901325394, tbyb:30461189423186, tbyb:30751735742546, tbyb:39493885067346, Verishop, YGroup_cookware, zest-gift",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/4131300606034",
+      "variants": [
+        {
+          "id": 30339901292626,
+          "product_id": 4131300606034,
+          "title": "Cream",
+          "price": "395.00",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "545.00",
+          "option1": "Cream",
+          "option2": null,
+          "option3": null,
+          "created_at": "2019-09-26T01:54:31-04:00",
+          "updated_at": "2024-07-29T21:38:41-04:00",
+          "taxable": true,
+          "barcode": "850036593553",
+          "fulfillment_service": "manual",
+          "grams": 15132,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CW-CSET-R01",
+          "weight": 33.36,
+          "weight_unit": "lb",
+          "inventory_item_id": 31799368646738,
+          "inventory_quantity": 8827,
+          "old_inventory_quantity": 8827,
+          "tax_code": "",
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/30339901292626",
+          "image_id": 29002425401426
+        },
+        {
+          "id": 30339901325394,
+          "product_id": 4131300606034,
+          "title": "Navy",
+          "price": "395.00",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "545.00",
+          "option1": "Navy",
+          "option2": null,
+          "option3": null,
+          "created_at": "2019-09-26T01:54:31-04:00",
+          "updated_at": "2024-07-29T21:40:37-04:00",
+          "taxable": true,
+          "barcode": "850036593669",
+          "fulfillment_service": "manual",
+          "grams": 15132,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CW-CSET-R06",
+          "weight": 33.36,
+          "weight_unit": "lb",
+          "inventory_item_id": 31799368679506,
+          "inventory_quantity": 10411,
+          "old_inventory_quantity": 10411,
+          "tax_code": "",
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/30339901325394",
+          "image_id": 29002426351698
+        },
+        {
+          "id": 30339901259858,
+          "product_id": 4131300606034,
+          "title": "Sage",
+          "price": "395.00",
+          "position": 3,
+          "inventory_policy": "deny",
+          "compare_at_price": "545.00",
+          "option1": "Sage",
+          "option2": null,
+          "option3": null,
+          "created_at": "2019-09-26T01:54:31-04:00",
+          "updated_at": "2024-07-29T21:37:07-04:00",
+          "taxable": true,
+          "barcode": "850036593638",
+          "fulfillment_service": "manual",
+          "grams": 15422,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CW-CSET-R03",
+          "weight": 34,
+          "weight_unit": "lb",
+          "inventory_item_id": 31799368613970,
+          "inventory_quantity": 4046,
+          "old_inventory_quantity": 4046,
+          "tax_code": "",
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/30339901259858",
+          "image_id": 29002427072594
+        },
+        {
+          "id": 30461189423186,
+          "product_id": 4131300606034,
+          "title": "Gray",
+          "price": "395.00",
+          "position": 4,
+          "inventory_policy": "deny",
+          "compare_at_price": "545.00",
+          "option1": "Gray",
+          "option2": null,
+          "option3": null,
+          "created_at": "2019-10-07T13:17:41-04:00",
+          "updated_at": "2024-07-29T21:35:26-04:00",
+          "taxable": true,
+          "barcode": "850036593645",
+          "fulfillment_service": "manual",
+          "grams": 15422,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CW-CSET-R04",
+          "weight": 34,
+          "weight_unit": "lb",
+          "inventory_item_id": 31966538268754,
+          "inventory_quantity": 9020,
+          "old_inventory_quantity": 9020,
+          "tax_code": "",
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/30461189423186",
+          "image_id": 29002427760722
+        },
+        {
+          "id": 30751735742546,
+          "product_id": 4131300606034,
+          "title": "Perracotta",
+          "price": "395.00",
+          "position": 5,
+          "inventory_policy": "deny",
+          "compare_at_price": "545.00",
+          "option1": "Perracotta",
+          "option2": null,
+          "option3": null,
+          "created_at": "2019-10-14T16:00:39-04:00",
+          "updated_at": "2024-07-29T21:31:21-04:00",
+          "taxable": true,
+          "barcode": "850010865041",
+          "fulfillment_service": "manual",
+          "grams": 15422,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CW-CSET-TER",
+          "weight": 34,
+          "weight_unit": "lb",
+          "inventory_item_id": 32187452162130,
+          "inventory_quantity": 2731,
+          "old_inventory_quantity": 2731,
+          "tax_code": "",
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/30751735742546",
+          "image_id": 29002428710994
+        },
+        {
+          "id": 39493885067346,
+          "product_id": 4131300606034,
+          "title": "Marigold",
+          "price": "395.00",
+          "position": 6,
+          "inventory_policy": "deny",
+          "compare_at_price": "545.00",
+          "option1": "Marigold",
+          "option2": null,
+          "option3": null,
+          "created_at": "2021-07-20T09:01:00-04:00",
+          "updated_at": "2024-07-29T17:52:42-04:00",
+          "taxable": true,
+          "barcode": "850010865348",
+          "fulfillment_service": "manual",
+          "grams": 15422,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CW-CSET-MRG",
+          "weight": 34,
+          "weight_unit": "lb",
+          "inventory_item_id": 41588694679634,
+          "inventory_quantity": 793,
+          "old_inventory_quantity": 793,
+          "tax_code": "",
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/39493885067346",
+          "image_id": 29002433757266
+        },
+        {
+          "id": 40014597619794,
+          "product_id": 4131300606034,
+          "title": "Black",
+          "price": "595.00",
+          "position": 7,
+          "inventory_policy": "deny",
+          "compare_at_price": "745.00",
+          "option1": "Black",
+          "option2": null,
+          "option3": null,
+          "created_at": "2022-06-22T08:57:59-04:00",
+          "updated_at": "2024-07-29T21:16:57-04:00",
+          "taxable": true,
+          "barcode": "850036593966",
+          "fulfillment_service": "manual",
+          "grams": 15422,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CW-CSET-R08",
+          "weight": 34,
+          "weight_unit": "lb",
+          "inventory_item_id": 42113062961234,
+          "inventory_quantity": 2982,
+          "old_inventory_quantity": 2982,
+          "tax_code": "",
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/40014597619794",
+          "image_id": 29002436051026
+        },
+        {
+          "id": 40014598340690,
+          "product_id": 4131300606034,
+          "title": "White",
+          "price": "595.00",
+          "position": 8,
+          "inventory_policy": "deny",
+          "compare_at_price": "745.00",
+          "option1": "White",
+          "option2": null,
+          "option3": null,
+          "created_at": "2022-06-22T08:59:13-04:00",
+          "updated_at": "2024-07-29T15:43:26-04:00",
+          "taxable": true,
+          "barcode": "850036593973",
+          "fulfillment_service": "manual",
+          "grams": 15422,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CW-CSET-R09",
+          "weight": 34,
+          "weight_unit": "lb",
+          "inventory_item_id": 42113063682130,
+          "inventory_quantity": 963,
+          "old_inventory_quantity": 963,
+          "tax_code": "",
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/40014598340690",
+          "image_id": 29002436477010
+        },
+        {
+          "id": 40165578440786,
+          "product_id": 4131300606034,
+          "title": "Rose Quartz",
+          "price": "595.00",
+          "position": 9,
+          "inventory_policy": "deny",
+          "compare_at_price": "745.00",
+          "option1": "Rose Quartz",
+          "option2": null,
+          "option3": null,
+          "created_at": "2022-09-28T20:16:51-04:00",
+          "updated_at": "2024-03-19T10:35:47-04:00",
+          "taxable": true,
+          "barcode": "850010865669",
+          "fulfillment_service": "manual",
+          "grams": 15422,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CW-CSET-CBP",
+          "weight": 34,
+          "weight_unit": "lb",
+          "inventory_item_id": 42265494913106,
+          "inventory_quantity": 0,
+          "old_inventory_quantity": 0,
+          "tax_code": "",
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/40165578440786",
+          "image_id": 29301086224466
+        },
+        {
+          "id": 40339897679954,
+          "product_id": 4131300606034,
+          "title": "Emerald",
+          "price": "595.00",
+          "position": 10,
+          "inventory_policy": "deny",
+          "compare_at_price": "745.00",
+          "option1": "Emerald",
+          "option2": null,
+          "option3": null,
+          "created_at": "2023-02-15T10:32:30-05:00",
+          "updated_at": "2024-01-15T14:13:07-05:00",
+          "taxable": true,
+          "barcode": "850036593942",
+          "fulfillment_service": "manual",
+          "grams": 15422,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CW-CSET-EMC",
+          "weight": 34,
+          "weight_unit": "lb",
+          "inventory_item_id": 42441323839570,
+          "inventory_quantity": 0,
+          "old_inventory_quantity": 0,
+          "tax_code": "",
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/40339897679954",
+          "image_id": 29922307014738
+        },
+        {
+          "id": 40339897712722,
+          "product_id": 4131300606034,
+          "title": "Midnight",
+          "price": "595.00",
+          "position": 11,
+          "inventory_policy": "deny",
+          "compare_at_price": "745.00",
+          "option1": "Midnight",
+          "option2": null,
+          "option3": null,
+          "created_at": "2023-02-15T10:32:33-05:00",
+          "updated_at": "2024-01-15T14:13:07-05:00",
+          "taxable": true,
+          "barcode": "850036593959",
+          "fulfillment_service": "manual",
+          "grams": 15422,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CW-CSET-MBC",
+          "weight": 34,
+          "weight_unit": "lb",
+          "inventory_item_id": 42441323872338,
+          "inventory_quantity": 0,
+          "old_inventory_quantity": 0,
+          "tax_code": "",
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/40339897712722",
+          "image_id": 29922307178578
+        },
+        {
+          "id": 40339899220050,
+          "product_id": 4131300606034,
+          "title": "Stone",
+          "price": "595.00",
+          "position": 12,
+          "inventory_policy": "deny",
+          "compare_at_price": "745.00",
+          "option1": "Stone",
+          "option2": null,
+          "option3": null,
+          "created_at": "2023-02-15T10:36:57-05:00",
+          "updated_at": "2024-01-15T14:13:07-05:00",
+          "taxable": true,
+          "barcode": "850036593935",
+          "fulfillment_service": "manual",
+          "grams": 15422,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CW-CSET-SAC",
+          "weight": 34,
+          "weight_unit": "lb",
+          "inventory_item_id": 42441325379666,
+          "inventory_quantity": 0,
+          "old_inventory_quantity": 0,
+          "tax_code": "",
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/40339899220050",
+          "image_id": 29922323169362
+        },
+        {
+          "id": 40339899973714,
+          "product_id": 4131300606034,
+          "title": "Silt Green",
+          "price": "595.00",
+          "position": 13,
+          "inventory_policy": "deny",
+          "compare_at_price": "745.00",
+          "option1": "Silt Green",
+          "option2": null,
+          "option3": null,
+          "created_at": "2023-02-15T10:41:12-05:00",
+          "updated_at": "2024-06-17T15:37:18-04:00",
+          "taxable": true,
+          "barcode": "850010865355",
+          "fulfillment_service": "manual",
+          "grams": 15422,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CW-CSET-SLG",
+          "weight": 34,
+          "weight_unit": "lb",
+          "inventory_item_id": 42441326133330,
+          "inventory_quantity": 0,
+          "old_inventory_quantity": 0,
+          "tax_code": "",
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/40339899973714",
+          "image_id": 29922324119634
+        },
+        {
+          "id": 40445232578642,
+          "product_id": 4131300606034,
+          "title": "Crème",
+          "price": "495.00",
+          "position": 14,
+          "inventory_policy": "deny",
+          "compare_at_price": "645.00",
+          "option1": "Crème",
+          "option2": null,
+          "option3": null,
+          "created_at": "2023-06-05T11:38:36-04:00",
+          "updated_at": "2024-01-19T12:56:46-05:00",
+          "taxable": true,
+          "barcode": "810118300295",
+          "fulfillment_service": "manual",
+          "grams": 15422,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CW-CSET-301",
+          "weight": 34,
+          "weight_unit": "lb",
+          "inventory_item_id": 42546790334546,
+          "inventory_quantity": -12,
+          "old_inventory_quantity": -12,
+          "tax_code": "",
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/40445232578642",
+          "image_id": 30339184689234
+        },
+        {
+          "id": 40445232611410,
+          "product_id": 4131300606034,
+          "title": "Moss",
+          "price": "495.00",
+          "position": 15,
+          "inventory_policy": "deny",
+          "compare_at_price": "645.00",
+          "option1": "Moss",
+          "option2": null,
+          "option3": null,
+          "created_at": "2023-06-05T11:38:55-04:00",
+          "updated_at": "2024-01-15T14:13:10-05:00",
+          "taxable": true,
+          "barcode": "810118300318",
+          "fulfillment_service": "manual",
+          "grams": 15422,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CW-CSET-303",
+          "weight": 34,
+          "weight_unit": "lb",
+          "inventory_item_id": 42546790367314,
+          "inventory_quantity": -1,
+          "old_inventory_quantity": -1,
+          "tax_code": "",
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/40445232611410",
+          "image_id": 30339183181906
+        },
+        {
+          "id": 40445233299538,
+          "product_id": 4131300606034,
+          "title": "Blush",
+          "price": "495.00",
+          "position": 16,
+          "inventory_policy": "deny",
+          "compare_at_price": "645.00",
+          "option1": "Blush",
+          "option2": null,
+          "option3": null,
+          "created_at": "2023-06-05T11:39:13-04:00",
+          "updated_at": "2024-05-07T18:31:20-04:00",
+          "taxable": true,
+          "barcode": "810118300301",
+          "fulfillment_service": "manual",
+          "grams": 15422,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "CW-CSET-302",
+          "weight": 34,
+          "weight_unit": "lb",
+          "inventory_item_id": 42546791055442,
+          "inventory_quantity": 0,
+          "old_inventory_quantity": 0,
+          "tax_code": "",
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/40445233299538",
+          "image_id": 30339180068946
+        }
+      ],
+      "options": [
+        {
+          "id": 5390050361426,
+          "product_id": 4131300606034,
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Cream",
+            "Navy",
+            "Sage",
+            "Gray",
+            "Perracotta",
+            "Marigold",
+            "Black",
+            "White",
+            "Rose Quartz",
+            "Emerald",
+            "Midnight",
+            "Stone",
+            "Silt Green",
+            "Crème",
+            "Moss",
+            "Blush"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 29002425401426,
+          "alt": null,
+          "position": 1,
+          "product_id": 4131300606034,
+          "created_at": "2022-06-23T16:19:09-04:00",
+          "updated_at": "2022-12-23T14:41:14-05:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29002425401426",
+          "width": 2000,
+          "height": 2000,
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/products/cream.png?v=1656015873",
+          "variant_ids": [
+            30339901292626
+          ]
+        },
+        {
+          "id": 29002426351698,
+          "alt": null,
+          "position": 2,
+          "product_id": 4131300606034,
+          "created_at": "2022-06-23T16:19:26-04:00",
+          "updated_at": "2022-12-23T14:41:14-05:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29002426351698",
+          "width": 2000,
+          "height": 2000,
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/products/navy.png?v=1656015566",
+          "variant_ids": [
+            30339901325394
+          ]
+        },
+        {
+          "id": 29002427072594,
+          "alt": null,
+          "position": 3,
+          "product_id": 4131300606034,
+          "created_at": "2022-06-23T16:19:40-04:00",
+          "updated_at": "2022-12-23T14:41:14-05:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29002427072594",
+          "width": 2000,
+          "height": 2000,
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/products/sage.png?v=1656015580",
+          "variant_ids": [
+            30339901259858
+          ]
+        },
+        {
+          "id": 29002427760722,
+          "alt": null,
+          "position": 4,
+          "product_id": 4131300606034,
+          "created_at": "2022-06-23T16:19:54-04:00",
+          "updated_at": "2022-12-23T14:41:14-05:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29002427760722",
+          "width": 2000,
+          "height": 2000,
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/products/gray.png?v=1656015594",
+          "variant_ids": [
+            30461189423186
+          ]
+        },
+        {
+          "id": 29002428710994,
+          "alt": null,
+          "position": 5,
+          "product_id": 4131300606034,
+          "created_at": "2022-06-23T16:20:10-04:00",
+          "updated_at": "2022-12-23T14:41:14-05:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29002428710994",
+          "width": 2000,
+          "height": 2000,
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/products/perracotta.png?v=1656015610",
+          "variant_ids": [
+            30751735742546
+          ]
+        },
+        {
+          "id": 29002433757266,
+          "alt": null,
+          "position": 6,
+          "product_id": 4131300606034,
+          "created_at": "2022-06-23T16:22:57-04:00",
+          "updated_at": "2022-12-23T14:41:14-05:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29002433757266",
+          "width": 2000,
+          "height": 2000,
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/products/marigold.png?v=1656015777",
+          "variant_ids": [
+            39493885067346
+          ]
+        },
+        {
+          "id": 29002434478162,
+          "alt": null,
+          "position": 7,
+          "product_id": 4131300606034,
+          "created_at": "2022-06-23T16:23:12-04:00",
+          "updated_at": "2022-12-23T14:41:14-05:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29002434478162",
+          "width": 2000,
+          "height": 2000,
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/products/brick.png?v=1656015792",
+          "variant_ids": []
+        },
+        {
+          "id": 29002434969682,
+          "alt": null,
+          "position": 8,
+          "product_id": 4131300606034,
+          "created_at": "2022-06-23T16:23:26-04:00",
+          "updated_at": "2022-12-23T14:41:14-05:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29002434969682",
+          "width": 2000,
+          "height": 2000,
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/products/pink.png?v=1656015806",
+          "variant_ids": []
+        },
+        {
+          "id": 29002435395666,
+          "alt": null,
+          "position": 9,
+          "product_id": 4131300606034,
+          "created_at": "2022-06-23T16:23:43-04:00",
+          "updated_at": "2022-12-23T14:41:14-05:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29002435395666",
+          "width": 2000,
+          "height": 2000,
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/products/turquoise.png?v=1656015823",
+          "variant_ids": []
+        },
+        {
+          "id": 29002436051026,
+          "alt": null,
+          "position": 10,
+          "product_id": 4131300606034,
+          "created_at": "2022-06-23T16:23:58-04:00",
+          "updated_at": "2022-12-23T14:41:14-05:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29002436051026",
+          "width": 2000,
+          "height": 2000,
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/products/black.png?v=1656015838",
+          "variant_ids": [
+            40014597619794
+          ]
+        },
+        {
+          "id": 29002436477010,
+          "alt": null,
+          "position": 11,
+          "product_id": 4131300606034,
+          "created_at": "2022-06-23T16:24:19-04:00",
+          "updated_at": "2022-12-23T14:41:14-05:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29002436477010",
+          "width": 2000,
+          "height": 2000,
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/products/white.png?v=1656015859",
+          "variant_ids": [
+            40014598340690
+          ]
+        },
+        {
+          "id": 29301077442642,
+          "alt": null,
+          "position": 12,
+          "product_id": 4131300606034,
+          "created_at": "2022-09-28T20:15:23-04:00",
+          "updated_at": "2022-12-23T14:41:14-05:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29301077442642",
+          "width": 1920,
+          "height": 1440,
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/products/CookwareSet-Sapphire-Hero.jpg?v=1664410523",
+          "variant_ids": []
+        },
+        {
+          "id": 29301086224466,
+          "alt": null,
+          "position": 13,
+          "product_id": 4131300606034,
+          "created_at": "2022-09-28T20:16:41-04:00",
+          "updated_at": "2022-12-23T14:41:14-05:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29301086224466",
+          "width": 1920,
+          "height": 1440,
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/products/CookwareSet-RoseQuartz-Hero.jpg?v=1664410601",
+          "variant_ids": [
+            40165578440786
+          ]
+        },
+        {
+          "id": 29922307014738,
+          "alt": null,
+          "position": 14,
+          "product_id": 4131300606034,
+          "created_at": "2023-02-15T10:28:32-05:00",
+          "updated_at": "2023-02-15T10:28:32-05:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29922307014738",
+          "width": 1920,
+          "height": 1440,
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/products/CopperCollectionEmeraldCardImage.jpg?v=1676474912",
+          "variant_ids": [
+            40339897679954
+          ]
+        },
+        {
+          "id": 29922307178578,
+          "alt": null,
+          "position": 15,
+          "product_id": 4131300606034,
+          "created_at": "2023-02-15T10:28:36-05:00",
+          "updated_at": "2023-02-15T10:28:36-05:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29922307178578",
+          "width": 1920,
+          "height": 1440,
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/products/copper-collection-midnight-card-image.jpg?v=1676474916",
+          "variant_ids": [
+            40339897712722
+          ]
+        },
+        {
+          "id": 29922323169362,
+          "alt": null,
+          "position": 16,
+          "product_id": 4131300606034,
+          "created_at": "2023-02-15T10:36:41-05:00",
+          "updated_at": "2023-02-15T10:36:41-05:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29922323169362",
+          "width": 1920,
+          "height": 1440,
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/products/CopperCollectionStoneCardImage.jpg?v=1676475401",
+          "variant_ids": [
+            40339899220050
+          ]
+        },
+        {
+          "id": 29922324119634,
+          "alt": null,
+          "position": 17,
+          "product_id": 4131300606034,
+          "created_at": "2023-02-15T10:38:05-05:00",
+          "updated_at": "2023-02-15T10:38:05-05:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/29922324119634",
+          "width": 1920,
+          "height": 1440,
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/products/CopperCollectionSiltGreenCardImage.jpg?v=1676475485",
+          "variant_ids": [
+            40339899973714
+          ]
+        },
+        {
+          "id": 30339180068946,
+          "alt": null,
+          "position": 18,
+          "product_id": 4131300606034,
+          "created_at": "2023-06-05T11:45:03-04:00",
+          "updated_at": "2023-06-05T11:45:03-04:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/30339180068946",
+          "width": 1920,
+          "height": 1440,
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/products/blush_cookware_set.jpg?v=1685979903",
+          "variant_ids": [
+            40445233299538
+          ]
+        },
+        {
+          "id": 30339183181906,
+          "alt": null,
+          "position": 19,
+          "product_id": 4131300606034,
+          "created_at": "2023-06-05T11:45:57-04:00",
+          "updated_at": "2023-06-05T11:45:57-04:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/30339183181906",
+          "width": 1920,
+          "height": 1440,
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/products/moss_cookware_set.jpg?v=1685979957",
+          "variant_ids": [
+            40445232611410
+          ]
+        },
+        {
+          "id": 30339184689234,
+          "alt": null,
+          "position": 20,
+          "product_id": 4131300606034,
+          "created_at": "2023-06-05T11:46:13-04:00",
+          "updated_at": "2023-06-05T11:46:13-04:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/30339184689234",
+          "width": 1920,
+          "height": 1440,
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/products/creme_cookware_set.jpg?v=1685979973",
+          "variant_ids": [
+            40445232578642
+          ]
+        }
+      ],
+      "image": {
+        "id": 29002425401426,
+        "alt": null,
+        "position": 1,
+        "product_id": 4131300606034,
+        "created_at": "2022-06-23T16:19:09-04:00",
+        "updated_at": "2022-12-23T14:41:14-05:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/29002425401426",
+        "width": 2000,
+        "height": 2000,
+        "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/products/cream.png?v=1656015873",
+        "variant_ids": [
+          30339901292626
+        ]
+      }
+    },
+    {
+      "id": 7250179555410,
+      "title": "Petite Cooker",
+      "handle": "ceramic-petite-cooker",
+      "body_html": "Simplify sides with Caraway's Petite Cooker — its two-quart capacity is ideal for steaming rice, cooking grains, or preparing sauces. Shop it here.",
+      "published_at": "2024-04-03T13:51:32-04:00",
+      "created_at": "2024-03-13T21:22:41-04:00",
+      "updated_at": "2024-07-29T20:31:21-04:00",
+      "vendor": "Caraway",
+      "product_type": "Cookware Singles",
+      "tags": [
+        "ceramic",
+        "cookware",
+        "cookware singles"
+      ],
+      "variants": [
+        {
+          "id": 40776676311122,
+          "title": "Cream",
+          "option1": "Cream",
+          "option2": null,
+          "option3": null,
+          "sku": "CW-PTCK-101",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31159744594002,
+            "product_id": 7250179555410,
+            "position": 1,
+            "created_at": "2024-04-05T11:41:04-04:00",
+            "updated_at": "2024-04-05T11:41:05-04:00",
+            "alt": null,
+            "width": 1450,
+            "height": 1088,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/PetiteCooker-Cream-Ecomm-Main.jpg?v=1712331665",
+            "variant_ids": [
+              40776676311122
+            ]
+          },
+          "available": true,
+          "price": "115.00",
+          "grams": 1950,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7250179555410,
+          "created_at": "2024-03-13T21:32:55-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40776676343890,
+          "title": "Navy",
+          "option1": "Navy",
+          "option2": null,
+          "option3": null,
+          "sku": "CW-PTCK-102",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31159744692306,
+            "product_id": 7250179555410,
+            "position": 2,
+            "created_at": "2024-04-05T11:41:20-04:00",
+            "updated_at": "2024-04-05T11:41:22-04:00",
+            "alt": null,
+            "width": 1450,
+            "height": 1088,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/PetiteCooker-Navy-Ecomm-Main.jpg?v=1712331682",
+            "variant_ids": [
+              40776676343890
+            ]
+          },
+          "available": true,
+          "price": "115.00",
+          "grams": 1950,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7250179555410,
+          "created_at": "2024-03-13T21:32:55-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40776676376658,
+          "title": "Gray",
+          "option1": "Gray",
+          "option2": null,
+          "option3": null,
+          "sku": "CW-PTCK-103",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31159744790610,
+            "product_id": 7250179555410,
+            "position": 3,
+            "created_at": "2024-04-05T11:41:32-04:00",
+            "updated_at": "2024-04-05T11:41:34-04:00",
+            "alt": null,
+            "width": 1450,
+            "height": 1088,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/PetiteCooker-Gray-Ecomm-Main.jpg?v=1712331694",
+            "variant_ids": [
+              40776676376658
+            ]
+          },
+          "available": true,
+          "price": "115.00",
+          "grams": 1950,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 7250179555410,
+          "created_at": "2024-03-13T21:32:55-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40776676409426,
+          "title": "Sage",
+          "option1": "Sage",
+          "option2": null,
+          "option3": null,
+          "sku": "CW-PTCK-104",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31159744823378,
+            "product_id": 7250179555410,
+            "position": 4,
+            "created_at": "2024-04-05T11:41:40-04:00",
+            "updated_at": "2024-04-05T11:41:41-04:00",
+            "alt": null,
+            "width": 1450,
+            "height": 1088,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/PetiteCooker-Sage-Ecomm-Main.jpg?v=1712331701",
+            "variant_ids": [
+              40776676409426
+            ]
+          },
+          "available": true,
+          "price": "115.00",
+          "grams": 1950,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 7250179555410,
+          "created_at": "2024-03-13T21:32:55-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40776676442194,
+          "title": "Perracotta",
+          "option1": "Perracotta",
+          "option2": null,
+          "option3": null,
+          "sku": "CW-PTCK-105",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31159744856146,
+            "product_id": 7250179555410,
+            "position": 5,
+            "created_at": "2024-04-05T11:41:48-04:00",
+            "updated_at": "2024-04-05T11:41:49-04:00",
+            "alt": null,
+            "width": 1450,
+            "height": 1088,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/PetiteCooker-Perracotta-Ecomm-Main.jpg?v=1712331709",
+            "variant_ids": [
+              40776676442194
+            ]
+          },
+          "available": true,
+          "price": "115.00",
+          "grams": 1950,
+          "compare_at_price": null,
+          "position": 5,
+          "product_id": 7250179555410,
+          "created_at": "2024-03-13T21:32:55-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40776676474962,
+          "title": "Marigold",
+          "option1": "Marigold",
+          "option2": null,
+          "option3": null,
+          "sku": "CW-PTCK-106",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31159744888914,
+            "product_id": 7250179555410,
+            "position": 6,
+            "created_at": "2024-04-05T11:42:06-04:00",
+            "updated_at": "2024-04-05T11:42:07-04:00",
+            "alt": null,
+            "width": 1450,
+            "height": 1088,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/PetiteCooker-Marigold-Ecomm-Main.jpg?v=1712331727",
+            "variant_ids": [
+              40776676474962
+            ]
+          },
+          "available": true,
+          "price": "115.00",
+          "grams": 1950,
+          "compare_at_price": null,
+          "position": 6,
+          "product_id": 7250179555410,
+          "created_at": "2024-03-13T21:32:55-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40776676507730,
+          "title": "Black",
+          "option1": "Black",
+          "option2": null,
+          "option3": null,
+          "sku": "CW-PTCK-201",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31159744921682,
+            "product_id": 7250179555410,
+            "position": 7,
+            "created_at": "2024-04-05T11:42:12-04:00",
+            "updated_at": "2024-04-05T11:42:13-04:00",
+            "alt": null,
+            "width": 1450,
+            "height": 1088,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/PetiteCooker-Black-Ecomm-Main.jpg?v=1712331733",
+            "variant_ids": [
+              40776676507730
+            ]
+          },
+          "available": true,
+          "price": "155.00",
+          "grams": 1950,
+          "compare_at_price": null,
+          "position": 7,
+          "product_id": 7250179555410,
+          "created_at": "2024-03-13T21:32:55-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40776676540498,
+          "title": "White",
+          "option1": "White",
+          "option2": null,
+          "option3": null,
+          "sku": "CW-PTCK-202",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31159744987218,
+            "product_id": 7250179555410,
+            "position": 8,
+            "created_at": "2024-04-05T11:42:18-04:00",
+            "updated_at": "2024-04-05T11:42:20-04:00",
+            "alt": null,
+            "width": 1450,
+            "height": 1088,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/PetiteCooker-White-Ecomm-Main.jpg?v=1712331740",
+            "variant_ids": [
+              40776676540498
+            ]
+          },
+          "available": false,
+          "price": "155.00",
+          "grams": 1950,
+          "compare_at_price": null,
+          "position": 8,
+          "product_id": 7250179555410,
+          "created_at": "2024-03-13T21:32:55-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 31159744594002,
+          "created_at": "2024-04-05T11:41:04-04:00",
+          "position": 1,
+          "updated_at": "2024-04-05T11:41:05-04:00",
+          "product_id": 7250179555410,
+          "variant_ids": [
+            40776676311122
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/PetiteCooker-Cream-Ecomm-Main.jpg?v=1712331665",
+          "width": 1450,
+          "height": 1088
+        },
+        {
+          "id": 31159744692306,
+          "created_at": "2024-04-05T11:41:20-04:00",
+          "position": 2,
+          "updated_at": "2024-04-05T11:41:22-04:00",
+          "product_id": 7250179555410,
+          "variant_ids": [
+            40776676343890
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/PetiteCooker-Navy-Ecomm-Main.jpg?v=1712331682",
+          "width": 1450,
+          "height": 1088
+        },
+        {
+          "id": 31159744790610,
+          "created_at": "2024-04-05T11:41:32-04:00",
+          "position": 3,
+          "updated_at": "2024-04-05T11:41:34-04:00",
+          "product_id": 7250179555410,
+          "variant_ids": [
+            40776676376658
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/PetiteCooker-Gray-Ecomm-Main.jpg?v=1712331694",
+          "width": 1450,
+          "height": 1088
+        },
+        {
+          "id": 31159744823378,
+          "created_at": "2024-04-05T11:41:40-04:00",
+          "position": 4,
+          "updated_at": "2024-04-05T11:41:41-04:00",
+          "product_id": 7250179555410,
+          "variant_ids": [
+            40776676409426
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/PetiteCooker-Sage-Ecomm-Main.jpg?v=1712331701",
+          "width": 1450,
+          "height": 1088
+        },
+        {
+          "id": 31159744856146,
+          "created_at": "2024-04-05T11:41:48-04:00",
+          "position": 5,
+          "updated_at": "2024-04-05T11:41:49-04:00",
+          "product_id": 7250179555410,
+          "variant_ids": [
+            40776676442194
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/PetiteCooker-Perracotta-Ecomm-Main.jpg?v=1712331709",
+          "width": 1450,
+          "height": 1088
+        },
+        {
+          "id": 31159744888914,
+          "created_at": "2024-04-05T11:42:06-04:00",
+          "position": 6,
+          "updated_at": "2024-04-05T11:42:07-04:00",
+          "product_id": 7250179555410,
+          "variant_ids": [
+            40776676474962
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/PetiteCooker-Marigold-Ecomm-Main.jpg?v=1712331727",
+          "width": 1450,
+          "height": 1088
+        },
+        {
+          "id": 31159744921682,
+          "created_at": "2024-04-05T11:42:12-04:00",
+          "position": 7,
+          "updated_at": "2024-04-05T11:42:13-04:00",
+          "product_id": 7250179555410,
+          "variant_ids": [
+            40776676507730
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/PetiteCooker-Black-Ecomm-Main.jpg?v=1712331733",
+          "width": 1450,
+          "height": 1088
+        },
+        {
+          "id": 31159744987218,
+          "created_at": "2024-04-05T11:42:18-04:00",
+          "position": 8,
+          "updated_at": "2024-04-05T11:42:20-04:00",
+          "product_id": 7250179555410,
+          "variant_ids": [
+            40776676540498
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/PetiteCooker-White-Ecomm-Main.jpg?v=1712331740",
+          "width": 1450,
+          "height": 1088
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Cream",
+            "Navy",
+            "Gray",
+            "Sage",
+            "Perracotta",
+            "Marigold",
+            "Black",
+            "White"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7225437487186,
+      "title": "Kitchen Gadget Set",
+      "body_html": "<span>Crafted with non-toxic stainless steel, these 5 essential gadgets combine form &amp; function. With no plastic or silicone, this first-ever premium line of kitchen tools is durable and easy to use. The included organizer, made of 100% FSC-certified birch wood, fits away neatly. Say goodbye to the junk drawer.</span>",
+      "vendor": "Caraway",
+      "product_type": "Prepware",
+      "created_at": "2024-01-29T15:23:51-05:00",
+      "handle": "stainless-steel-kitchen-gadget-set",
+      "updated_at": "2024-07-29T19:42:06-04:00",
+      "published_at": "2024-02-26T09:40:28-05:00",
+      "template_suffix": "",
+      "published_scope": "web",
+      "tags": "Prepware",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/7225437487186",
+      "variants": [
+        {
+          "id": 40703067422802,
+          "product_id": 7225437487186,
+          "title": "Stainless Steel",
+          "price": "195.00",
+          "position": 1,
+          "inventory_policy": "deny",
+          "compare_at_price": "245.00",
+          "option1": "Stainless Steel",
+          "option2": null,
+          "option3": null,
+          "created_at": "2024-01-29T15:23:53-05:00",
+          "updated_at": "2024-07-29T19:42:06-04:00",
+          "taxable": true,
+          "barcode": "810118300356",
+          "fulfillment_service": "manual",
+          "grams": 2622,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "KW-KCGT-101",
+          "weight": 5.78,
+          "weight_unit": "lb",
+          "inventory_item_id": 42804287930450,
+          "inventory_quantity": 2950,
+          "old_inventory_quantity": 2950,
+          "tax_code": "",
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/40703067422802",
+          "image_id": 31037839900754
+        }
+      ],
+      "options": [
+        {
+          "id": 9398495117394,
+          "product_id": 7225437487186,
+          "name": "Material",
+          "position": 1,
+          "values": [
+            "Stainless Steel"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 31037839900754,
+          "alt": null,
+          "position": 1,
+          "product_id": 7225437487186,
+          "created_at": "2024-02-20T14:12:39-05:00",
+          "updated_at": "2024-02-20T14:12:40-05:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/31037839900754",
+          "width": 1920,
+          "height": 1440,
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/Kitchen_Gadgets_Set_-_Gallery_Image_1.jpg?v=1708456360",
+          "variant_ids": [
+            40703067422802
+          ]
+        }
+      ],
+      "image": {
+        "id": 31037839900754,
+        "alt": null,
+        "position": 1,
+        "product_id": 7225437487186,
+        "created_at": "2024-02-20T14:12:39-05:00",
+        "updated_at": "2024-02-20T14:12:40-05:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/31037839900754",
+        "width": 1920,
+        "height": 1440,
+        "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/Kitchen_Gadgets_Set_-_Gallery_Image_1.jpg?v=1708456360",
+        "variant_ids": [
+          40703067422802
+        ]
+      }
+    },
+    {
+      "id": 7249176756306,
+      "title": "Large Cutting Board",
+      "handle": "3-35",
+      "body_html": "<span data-metadata=\"&lt;!--(figmeta)eyJmaWxlS2V5IjoiNEVDR1Y2RFczQU5DS2JMcEk0OGNvcCIsInBhc3RlSUQiOjE4MTc1MzM5NTEsImRhdGFUeXBlIjoic2NlbmUifQo=(/figmeta)--&gt;\"></span><span data-mce-fragment=\"1\">Slice &amp; dice without letting microplastics into your food. This large non-toxic Cutting Board is made with FSC-certified birch wood and finished with food-safe mineral oil &amp; wax. Use it to carve a rotisserie chicken or cut up a watermelon. And the best part? The recessed handle grooves perfectly attach onto Food Storage containers, so you can easily transfer food.</span><br>",
+      "published_at": "2024-03-27T11:37:57-04:00",
+      "created_at": "2024-03-11T14:17:32-04:00",
+      "updated_at": "2024-07-29T20:31:21-04:00",
+      "vendor": "Caraway",
+      "product_type": "Prepware",
+      "tags": [
+        "Prepware"
+      ],
+      "variants": [
+        {
+          "id": 40772130668626,
+          "title": "FSC Wood",
+          "option1": "FSC Wood",
+          "option2": null,
+          "option3": null,
+          "sku": "KW-LCTB-101",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31088819568722,
+            "product_id": 7249176756306,
+            "position": 1,
+            "created_at": "2024-03-11T14:23:45-04:00",
+            "updated_at": "2024-03-11T14:23:46-04:00",
+            "alt": null,
+            "width": 1920,
+            "height": 1440,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/LargeCuttingBoard-EcommonWhite.png?v=1710181426",
+            "variant_ids": [
+              40772130668626
+            ]
+          },
+          "available": true,
+          "price": "95.00",
+          "grams": 2300,
+          "compare_at_price": "95.00",
+          "position": 3,
+          "product_id": 7249176756306,
+          "created_at": "2024-03-11T14:17:32-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 31088819568722,
+          "created_at": "2024-03-11T14:23:45-04:00",
+          "position": 1,
+          "updated_at": "2024-03-11T14:23:46-04:00",
+          "product_id": 7249176756306,
+          "variant_ids": [
+            40772130668626
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/LargeCuttingBoard-EcommonWhite.png?v=1710181426",
+          "width": 1920,
+          "height": 1440
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "FSC Wood"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7249158897746,
+      "title": "Knife Set",
+      "handle": "stainless-steel-knife-set",
+      "body_html": "<span data-mce-fragment=\"1\">Stay sharp in the kitchen. Our Chef's Knife, Prep Knife, Bread Knife, &amp; Paring Knife are crafted with premium German Stainless Steel blades and have a professional-grade Rockwell Hardness score of 58+. The Kitchen Shears, which can detach for easier cleaning, add further versatility for quickly snipping herbs or slicing open your meal kit delivery box. With balanced weight and an ergonomic design, you’ll be able to easily chop anything on the menu.</span>",
+      "published_at": "2024-03-27T11:37:43-04:00",
+      "created_at": "2024-03-11T12:24:37-04:00",
+      "updated_at": "2024-07-29T20:31:21-04:00",
+      "vendor": "Caraway",
+      "product_type": "Prepware",
+      "tags": [
+        "Prepware"
+      ],
+      "variants": [
+        {
+          "id": 40772058447954,
+          "title": "Cream",
+          "option1": "Cream",
+          "option2": null,
+          "option3": null,
+          "sku": "KW-KSET-101",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31088709009490,
+            "product_id": 7249158897746,
+            "position": 2,
+            "created_at": "2024-03-11T12:21:37-04:00",
+            "updated_at": "2024-03-11T12:21:39-04:00",
+            "alt": null,
+            "width": 1920,
+            "height": 1440,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/Knife_Set_-_Cream_-_Ecomm_on_White.png?v=1710174099",
+            "variant_ids": [
+              40772058447954
+            ]
+          },
+          "available": true,
+          "price": "245.00",
+          "grams": 0,
+          "compare_at_price": "245.00",
+          "position": 2,
+          "product_id": 7249158897746,
+          "created_at": "2024-03-11T12:24:39-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40772058480722,
+          "title": "Navy",
+          "option1": "Navy",
+          "option2": null,
+          "option3": null,
+          "sku": "KW-KSET-102",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31088709042258,
+            "product_id": 7249158897746,
+            "position": 3,
+            "created_at": "2024-03-11T12:21:59-04:00",
+            "updated_at": "2024-03-11T12:22:00-04:00",
+            "alt": null,
+            "width": 1920,
+            "height": 1440,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/Knife_Set_-_Navy_-_Ecomm_on_White.png?v=1710174120",
+            "variant_ids": [
+              40772058480722
+            ]
+          },
+          "available": true,
+          "price": "245.00",
+          "grams": 0,
+          "compare_at_price": "245.00",
+          "position": 3,
+          "product_id": 7249158897746,
+          "created_at": "2024-03-11T12:24:39-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40772058513490,
+          "title": "Gray",
+          "option1": "Gray",
+          "option2": null,
+          "option3": null,
+          "sku": "KW-KSET-103",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31088709075026,
+            "product_id": 7249158897746,
+            "position": 4,
+            "created_at": "2024-03-11T12:22:35-04:00",
+            "updated_at": "2024-03-11T12:22:36-04:00",
+            "alt": null,
+            "width": 1920,
+            "height": 1440,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/Knife_Set_-_Gray_-_Ecomm_on_White.png?v=1710174156",
+            "variant_ids": [
+              40772058513490
+            ]
+          },
+          "available": true,
+          "price": "245.00",
+          "grams": 0,
+          "compare_at_price": "245.00",
+          "position": 4,
+          "product_id": 7249158897746,
+          "created_at": "2024-03-11T12:24:39-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40772058546258,
+          "title": "Mist",
+          "option1": "Mist",
+          "option2": null,
+          "option3": null,
+          "sku": "KW-KSET-104",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31088709107794,
+            "product_id": 7249158897746,
+            "position": 5,
+            "created_at": "2024-03-11T12:22:55-04:00",
+            "updated_at": "2024-03-11T12:22:56-04:00",
+            "alt": null,
+            "width": 1920,
+            "height": 1440,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/Knife_Set_-_Mist_-_Ecomm_on_White.png?v=1710174176",
+            "variant_ids": [
+              40772058546258
+            ]
+          },
+          "available": true,
+          "price": "245.00",
+          "grams": 0,
+          "compare_at_price": "245.00",
+          "position": 5,
+          "product_id": 7249158897746,
+          "created_at": "2024-03-11T12:24:39-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40772058579026,
+          "title": "Perracotta",
+          "option1": "Perracotta",
+          "option2": null,
+          "option3": null,
+          "sku": "KW-KSET-105",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31088709140562,
+            "product_id": 7249158897746,
+            "position": 6,
+            "created_at": "2024-03-11T12:23:34-04:00",
+            "updated_at": "2024-03-11T12:23:35-04:00",
+            "alt": null,
+            "width": 1920,
+            "height": 1440,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/Knife_Set_-_Perracotta_-_Ecomm_on_White.png?v=1710174215",
+            "variant_ids": [
+              40772058579026
+            ]
+          },
+          "available": true,
+          "price": "245.00",
+          "grams": 0,
+          "compare_at_price": "245.00",
+          "position": 6,
+          "product_id": 7249158897746,
+          "created_at": "2024-03-11T12:24:39-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40772058611794,
+          "title": "Charcoal",
+          "option1": "Charcoal",
+          "option2": null,
+          "option3": null,
+          "sku": "KW-KSET-106",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31088709173330,
+            "product_id": 7249158897746,
+            "position": 7,
+            "created_at": "2024-03-11T12:24:20-04:00",
+            "updated_at": "2024-03-11T12:24:22-04:00",
+            "alt": null,
+            "width": 1920,
+            "height": 1440,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/Knife_Set_-_Charcoal_-_Ecomm_on_White.png?v=1710174262",
+            "variant_ids": [
+              40772058611794
+            ]
+          },
+          "available": true,
+          "price": "245.00",
+          "grams": 0,
+          "compare_at_price": "245.00",
+          "position": 7,
+          "product_id": 7249158897746,
+          "created_at": "2024-03-11T12:24:39-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 31088709337170,
+          "created_at": "2024-03-11T12:24:37-04:00",
+          "position": 1,
+          "updated_at": "2024-03-11T12:24:40-04:00",
+          "product_id": 7249158897746,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/KnifeSet-Cream-EcommonWhite.png?v=1710174280",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "id": 31088709009490,
+          "created_at": "2024-03-11T12:21:37-04:00",
+          "position": 2,
+          "updated_at": "2024-03-11T12:21:39-04:00",
+          "product_id": 7249158897746,
+          "variant_ids": [
+            40772058447954
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/Knife_Set_-_Cream_-_Ecomm_on_White.png?v=1710174099",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "id": 31088709042258,
+          "created_at": "2024-03-11T12:21:59-04:00",
+          "position": 3,
+          "updated_at": "2024-03-11T12:22:00-04:00",
+          "product_id": 7249158897746,
+          "variant_ids": [
+            40772058480722
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/Knife_Set_-_Navy_-_Ecomm_on_White.png?v=1710174120",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "id": 31088709075026,
+          "created_at": "2024-03-11T12:22:35-04:00",
+          "position": 4,
+          "updated_at": "2024-03-11T12:22:36-04:00",
+          "product_id": 7249158897746,
+          "variant_ids": [
+            40772058513490
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/Knife_Set_-_Gray_-_Ecomm_on_White.png?v=1710174156",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "id": 31088709107794,
+          "created_at": "2024-03-11T12:22:55-04:00",
+          "position": 5,
+          "updated_at": "2024-03-11T12:22:56-04:00",
+          "product_id": 7249158897746,
+          "variant_ids": [
+            40772058546258
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/Knife_Set_-_Mist_-_Ecomm_on_White.png?v=1710174176",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "id": 31088709140562,
+          "created_at": "2024-03-11T12:23:34-04:00",
+          "position": 6,
+          "updated_at": "2024-03-11T12:23:35-04:00",
+          "product_id": 7249158897746,
+          "variant_ids": [
+            40772058579026
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/Knife_Set_-_Perracotta_-_Ecomm_on_White.png?v=1710174215",
+          "width": 1920,
+          "height": 1440
+        },
+        {
+          "id": 31088709173330,
+          "created_at": "2024-03-11T12:24:20-04:00",
+          "position": 7,
+          "updated_at": "2024-03-11T12:24:22-04:00",
+          "product_id": 7249158897746,
+          "variant_ids": [
+            40772058611794
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/Knife_Set_-_Charcoal_-_Ecomm_on_White.png?v=1710174262",
+          "width": 1920,
+          "height": 1440
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Cream",
+            "Navy",
+            "Gray",
+            "Mist",
+            "Perracotta",
+            "Charcoal"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7250182504530,
+      "title": "Stir Fry Pan",
+      "handle": "ceramic-stir-fry-pan",
+      "body_html": "<span data-mce-fragment=\"1\">Our take on a wok, the Stir Fry Pan is an all purpose pan that features our signature non-stick, non-toxic ceramic coating. The high sloped walls allow you to spread food and concentrate heat onto different ingredients, cooking vegetables, grains, and proteins all at once. It’s the perfect pan for cleaning out the fridge, so your favorite foods never go to waste. 12” Glass Lid sold separately.</span>",
+      "published_at": "2024-04-03T13:52:36-04:00",
+      "created_at": "2024-03-13T21:46:20-04:00",
+      "updated_at": "2024-07-29T20:31:21-04:00",
+      "vendor": "Caraway",
+      "product_type": "Cookware Sets",
+      "tags": [
+        "ceramic",
+        "cookware",
+        "cookware singles"
+      ],
+      "variants": [
+        {
+          "id": 40776685420626,
+          "title": "Cream",
+          "option1": "Cream",
+          "option2": null,
+          "option3": null,
+          "sku": "CW-VWOK-101",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31159762157650,
+            "product_id": 7250182504530,
+            "position": 1,
+            "created_at": "2024-04-05T12:00:40-04:00",
+            "updated_at": "2024-04-05T12:00:41-04:00",
+            "alt": null,
+            "width": 1450,
+            "height": 1088,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StirFry-Cream-Ecomm-Main.jpg?v=1712332841",
+            "variant_ids": [
+              40776685420626
+            ]
+          },
+          "available": true,
+          "price": "125.00",
+          "grams": 3252,
+          "compare_at_price": "125.00",
+          "position": 1,
+          "product_id": 7250182504530,
+          "created_at": "2024-03-13T21:46:22-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40776685453394,
+          "title": "Navy",
+          "option1": "Navy",
+          "option2": null,
+          "option3": null,
+          "sku": "CW-VWOK-102",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31159762452562,
+            "product_id": 7250182504530,
+            "position": 2,
+            "created_at": "2024-04-05T12:00:52-04:00",
+            "updated_at": "2024-04-05T12:00:54-04:00",
+            "alt": null,
+            "width": 1450,
+            "height": 1088,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StirFry-Navy-Ecomm-Main.jpg?v=1712332854",
+            "variant_ids": [
+              40776685453394
+            ]
+          },
+          "available": true,
+          "price": "125.00",
+          "grams": 3252,
+          "compare_at_price": "125.00",
+          "position": 2,
+          "product_id": 7250182504530,
+          "created_at": "2024-03-13T21:46:22-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40776685486162,
+          "title": "Gray",
+          "option1": "Gray",
+          "option2": null,
+          "option3": null,
+          "sku": "CW-VWOK-103",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31159762485330,
+            "product_id": 7250182504530,
+            "position": 3,
+            "created_at": "2024-04-05T12:00:59-04:00",
+            "updated_at": "2024-04-05T12:01:01-04:00",
+            "alt": null,
+            "width": 1450,
+            "height": 1088,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StirFry-Gray-Ecomm-Main.jpg?v=1712332861",
+            "variant_ids": [
+              40776685486162
+            ]
+          },
+          "available": true,
+          "price": "125.00",
+          "grams": 3252,
+          "compare_at_price": "125.00",
+          "position": 3,
+          "product_id": 7250182504530,
+          "created_at": "2024-03-13T21:46:22-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40776685518930,
+          "title": "Sage",
+          "option1": "Sage",
+          "option2": null,
+          "option3": null,
+          "sku": "CW-VWOK-104",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31159762518098,
+            "product_id": 7250182504530,
+            "position": 4,
+            "created_at": "2024-04-05T12:01:04-04:00",
+            "updated_at": "2024-04-05T12:01:06-04:00",
+            "alt": null,
+            "width": 1450,
+            "height": 1088,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StirFry-Sage-Ecomm-Main.jpg?v=1712332866",
+            "variant_ids": [
+              40776685518930
+            ]
+          },
+          "available": true,
+          "price": "125.00",
+          "grams": 3252,
+          "compare_at_price": "125.00",
+          "position": 4,
+          "product_id": 7250182504530,
+          "created_at": "2024-03-13T21:46:22-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40776685551698,
+          "title": "Perracotta",
+          "option1": "Perracotta",
+          "option2": null,
+          "option3": null,
+          "sku": "CW-VWOK-105",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31159762550866,
+            "product_id": 7250182504530,
+            "position": 5,
+            "created_at": "2024-04-05T12:01:11-04:00",
+            "updated_at": "2024-04-05T12:01:13-04:00",
+            "alt": null,
+            "width": 1450,
+            "height": 1088,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StirFry-Perracotta-Ecomm-Main.jpg?v=1712332873",
+            "variant_ids": [
+              40776685551698
+            ]
+          },
+          "available": true,
+          "price": "125.00",
+          "grams": 3252,
+          "compare_at_price": "125.00",
+          "position": 5,
+          "product_id": 7250182504530,
+          "created_at": "2024-03-13T21:46:22-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40776685584466,
+          "title": "Marigold",
+          "option1": "Marigold",
+          "option2": null,
+          "option3": null,
+          "sku": "CW-VWOK-106",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31159762583634,
+            "product_id": 7250182504530,
+            "position": 6,
+            "created_at": "2024-04-05T12:01:17-04:00",
+            "updated_at": "2024-04-05T12:01:18-04:00",
+            "alt": null,
+            "width": 1450,
+            "height": 1088,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StirFry-Marigold-Ecomm-Main.jpg?v=1712332878",
+            "variant_ids": [
+              40776685584466
+            ]
+          },
+          "available": true,
+          "price": "125.00",
+          "grams": 3252,
+          "compare_at_price": "125.00",
+          "position": 6,
+          "product_id": 7250182504530,
+          "created_at": "2024-03-13T21:46:22-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40776685617234,
+          "title": "Black",
+          "option1": "Black",
+          "option2": null,
+          "option3": null,
+          "sku": "CW-VWOK-201",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31159762681938,
+            "product_id": 7250182504530,
+            "position": 7,
+            "created_at": "2024-04-05T12:01:26-04:00",
+            "updated_at": "2024-04-05T12:01:27-04:00",
+            "alt": null,
+            "width": 1450,
+            "height": 1088,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StirFry-Black-Ecomm-Main.jpg?v=1712332887",
+            "variant_ids": [
+              40776685617234
+            ]
+          },
+          "available": false,
+          "price": "165.00",
+          "grams": 3252,
+          "compare_at_price": "165.00",
+          "position": 7,
+          "product_id": 7250182504530,
+          "created_at": "2024-03-13T21:46:22-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        },
+        {
+          "id": 40776685650002,
+          "title": "White",
+          "option1": "White",
+          "option2": null,
+          "option3": null,
+          "sku": "CW-VWOK-202",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 31159762780242,
+            "product_id": 7250182504530,
+            "position": 8,
+            "created_at": "2024-04-05T12:01:32-04:00",
+            "updated_at": "2024-04-05T12:01:34-04:00",
+            "alt": null,
+            "width": 1450,
+            "height": 1088,
+            "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StirFry-White-Ecomm-Main.jpg?v=1712332894",
+            "variant_ids": [
+              40776685650002
+            ]
+          },
+          "available": true,
+          "price": "165.00",
+          "grams": 3252,
+          "compare_at_price": "165.00",
+          "position": 8,
+          "product_id": 7250182504530,
+          "created_at": "2024-03-13T21:46:22-04:00",
+          "updated_at": "2024-07-29T20:31:21-04:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 31159762157650,
+          "created_at": "2024-04-05T12:00:40-04:00",
+          "position": 1,
+          "updated_at": "2024-04-05T12:00:41-04:00",
+          "product_id": 7250182504530,
+          "variant_ids": [
+            40776685420626
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StirFry-Cream-Ecomm-Main.jpg?v=1712332841",
+          "width": 1450,
+          "height": 1088
+        },
+        {
+          "id": 31159762452562,
+          "created_at": "2024-04-05T12:00:52-04:00",
+          "position": 2,
+          "updated_at": "2024-04-05T12:00:54-04:00",
+          "product_id": 7250182504530,
+          "variant_ids": [
+            40776685453394
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StirFry-Navy-Ecomm-Main.jpg?v=1712332854",
+          "width": 1450,
+          "height": 1088
+        },
+        {
+          "id": 31159762485330,
+          "created_at": "2024-04-05T12:00:59-04:00",
+          "position": 3,
+          "updated_at": "2024-04-05T12:01:01-04:00",
+          "product_id": 7250182504530,
+          "variant_ids": [
+            40776685486162
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StirFry-Gray-Ecomm-Main.jpg?v=1712332861",
+          "width": 1450,
+          "height": 1088
+        },
+        {
+          "id": 31159762518098,
+          "created_at": "2024-04-05T12:01:04-04:00",
+          "position": 4,
+          "updated_at": "2024-04-05T12:01:06-04:00",
+          "product_id": 7250182504530,
+          "variant_ids": [
+            40776685518930
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StirFry-Sage-Ecomm-Main.jpg?v=1712332866",
+          "width": 1450,
+          "height": 1088
+        },
+        {
+          "id": 31159762550866,
+          "created_at": "2024-04-05T12:01:11-04:00",
+          "position": 5,
+          "updated_at": "2024-04-05T12:01:13-04:00",
+          "product_id": 7250182504530,
+          "variant_ids": [
+            40776685551698
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StirFry-Perracotta-Ecomm-Main.jpg?v=1712332873",
+          "width": 1450,
+          "height": 1088
+        },
+        {
+          "id": 31159762583634,
+          "created_at": "2024-04-05T12:01:17-04:00",
+          "position": 6,
+          "updated_at": "2024-04-05T12:01:18-04:00",
+          "product_id": 7250182504530,
+          "variant_ids": [
+            40776685584466
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StirFry-Marigold-Ecomm-Main.jpg?v=1712332878",
+          "width": 1450,
+          "height": 1088
+        },
+        {
+          "id": 31159762681938,
+          "created_at": "2024-04-05T12:01:26-04:00",
+          "position": 7,
+          "updated_at": "2024-04-05T12:01:27-04:00",
+          "product_id": 7250182504530,
+          "variant_ids": [
+            40776685617234
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StirFry-Black-Ecomm-Main.jpg?v=1712332887",
+          "width": 1450,
+          "height": 1088
+        },
+        {
+          "id": 31159762780242,
+          "created_at": "2024-04-05T12:01:32-04:00",
+          "position": 8,
+          "updated_at": "2024-04-05T12:01:34-04:00",
+          "product_id": 7250182504530,
+          "variant_ids": [
+            40776685650002
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0258/6273/3906/files/StirFry-White-Ecomm-Main.jpg?v=1712332894",
+          "width": 1450,
+          "height": 1088
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Cream",
+            "Navy",
+            "Gray",
+            "Sage",
+            "Perracotta",
+            "Marigold",
+            "Black",
+            "White"
+          ]
+        }
+      ]
+    }
+  ]
+}
